@@ -1,4 +1,4 @@
-# Advent of Code 2020
+# 🎄 Advent of Code 2020
 
 | Assignment | Data | Solution R | Solution Python | Star 1 | Star 2 |
 |-------|---|---|---|---|---|
