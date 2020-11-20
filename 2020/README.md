@@ -2,10 +2,7 @@
 
 | Assignment | Data | Solution R | Solution Python | Solution C++ | Star 1 | Star 2 |
 |-------|---|---|---|---|---|---|
-<<<<<<< HEAD
-| [Day 1](https://adventofcode.com/2020/day/1) | [Data](data/Day1.txt) | [R - Day 1](Solutions - R/Day1.R) |   |   |   |   |
-=======
-| [Day 1](https://adventofcode.com/2020/day/1) | [Data](data/Day1.txt) | [R](Solutions - R/Day1.R) | [Python](Solutions - Python/Day1.R)  | [C++](Solutions - C++/Day1.R)  |   |   |
+| [Day 1](https://adventofcode.com/2020/day/1) | [Data](data/Day1.txt) | [R - Day 1](SolutionsR/Day1.R) |   |   |   |   |
 | [Day 2](https://adventofcode.com/2020/day/2) |   |   |   |   |   |   |
 | [Day 3](https://adventofcode.com/2020/day/3) |   |   |   |   |   |   |
 | [Day 4](https://adventofcode.com/2020/day/4) |   |   |   |   |   |   |
