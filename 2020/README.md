@@ -1,8 +1,8 @@
 # 🎄 Advent of Code 2020 🎁
 
 | Assignment | Data | Solution R | Solution Python | Solution C++ | Star 1 | Star 2 |
-|-------|---|---|---|---|---|---|
-| [Day 1](https://adventofcode.com/2020/day/1) | [Data](data/day1.txt) | [R - D1](solutionsR/day1.R) |   |   | <span style="text-align: center">⭐</span> | <span style="text-align: center">⭐</span> |
+|-------|---|---|---|---|:-:|:-:|
+| [Day 1](https://adventofcode.com/2020/day/1) | [Data](data/day1.txt) | [R - D1](solutionsR/day1.R) |   |   | ⭐ | ⭐ |
 | [Day 2](https://adventofcode.com/2020/day/2) | [Data](data/Day2.txt) | [R - D2](SolutionsR/Day2.R) |   |   |   |   |
 | [Day 3](https://adventofcode.com/2020/day/3) |   |   |   |   |   |   |
 | [Day 4](https://adventofcode.com/2020/day/4) |   |   |   |   |   |   |
