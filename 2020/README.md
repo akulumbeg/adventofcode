@@ -3,7 +3,7 @@
 | Assignment | Data | Solution R | Solution Python | Solution C++ | Part 1 | Part 2 |
 |-------|---|---|---|---|:-:|:-:|
 | [Day 1: Report Repair](https://adventofcode.com/2020/day/1) | [Data](data/day1.txt) | [R - D1](solutionsR/day1.R) |   |   | ⭐ | ⭐ |
-| [Day 2](https://adventofcode.com/2020/day/2) | [Data](data/Day2.txt) | [R - D2](SolutionsR/Day2.R) |   |   |   |   |
+| [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2) | [Data](data/day2.txt) | [R - D2](SolutionsR/day2.R) |   |   |   |   |
 | [Day 3](https://adventofcode.com/2020/day/3) |   |   |   |   |   |   |
 | [Day 4](https://adventofcode.com/2020/day/4) |   |   |   |   |   |   |
 | [Day 5](https://adventofcode.com/2020/day/5) |   |   |   |   |   |   |
