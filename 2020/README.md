@@ -4,7 +4,7 @@
 |-------|---|---|---|---|:-:|:-:|
 | [Day 1: Report Repair](https://adventofcode.com/2020/day/1) | [Data](data/day1.txt) | [R - D1](solutionsR/day1.R) |   |   | ⭐ | ⭐ |
 | [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2) | [Data](data/day2.txt) | [R - D2](solutionsR/day2.R) |   |   | ⭐ | ⭐ |
-| [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3) | [Data](data/day3.txt) | [R - D2](solutionsR/day3.R)  |   |   |   |   |
+| [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3) | [Data](data/day3.txt) | [R - D2](solutionsR/day3.R)  |   |   | ⭐ | ⭐ |
 | [Day 4](https://adventofcode.com/2020/day/4) |   |   |   |   |   |   |
 | [Day 5](https://adventofcode.com/2020/day/5) |   |   |   |   |   |   |
 | Day 6 |   |   |   |   |   |   |
