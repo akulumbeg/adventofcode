@@ -11,7 +11,7 @@ Currently focusing on 2020, the other years (and languages) will slowly be added
 
 I do not participate in AoC to be the first or to come up with the best solutions. To me, AoC is about having fun and learning something new, while having a small goal every day. You have to enjoy the little things, after all!
 
-With the solutions I post, I do not mean to be the first, nor to come up with the most efficient code. My code chunks are simply representations of my programming thinking. They help me to make my programming ways more efficient by learning new ways of handling everyday code problems. And maybe they will help someone else too!
+My code chunks are simply representations of my programming thinking. They help me to make my programming ways more efficient by learning new ways of handling everyday code problems. And maybe they will help someone else too.
 
 ### R
 
