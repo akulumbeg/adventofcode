@@ -25,7 +25,7 @@ I am well aware that many of my solutions can be done much faster using e.g. tid
 
 *2020*
 
-    R      [====                     ] 4/25
+    R      [=====                    ] 5/25
     Python [                         ] 0/25
     C++    [                         ] 0/25
     
