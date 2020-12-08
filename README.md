@@ -31,10 +31,30 @@ I am well aware that many of my solutions can be done much faster using e.g. tid
     
 *2019*
 
-*2018*
+    R      [                         ] 0/25
+    Python [                         ] 0/25
+    C++    [                         ] 0/25
 
+*2018*
+    
+    R      [                         ] 0/25
+    Python [                         ] 0/25
+    C++    [                         ] 0/25
+    
 *2017*
+
+    R      [                         ] 0/25
+    Python [                         ] 0/25
+    C++    [                         ] 0/25
 
 *2016*
 
+    R      [                         ] 0/25
+    Python [                         ] 0/25
+    C++    [                         ] 0/25
+
 *2015*
+
+    R      [                         ] 0/25
+    Python [                         ] 0/25
+    C++    [                         ] 0/25
