@@ -1,4 +1,4 @@
-# 🎄 Advent of Code 2018 🎁
+# 🎄 Advent of Code 2020 🎁
 
 | Assignment | Data | Solution R | Solution Python | Solution C++ | Part 1 | Part 2 |
 |-------|---|---|---|---|:-:|:-:|
@@ -7,7 +7,7 @@
 | [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3) | [Data](data/day3.txt) | [R - D3](solutionsR/day3.R)  |   |   | ⭐ | ⭐ |
 | [Day 4: Passport Processing](https://adventofcode.com/2020/day/4) | [Data](data/day4.txt) | [R - D4](solutionsR/day4.R)  |   |   | ⭐ | ⭐ |
 | [Day 5: Binary Boarding](https://adventofcode.com/2020/day/5) | [Data](data/day5.txt) | [R - D5](solutionsR/day5.R) |   |   | ⭐ | ⭐ |
-| Day 6 |   |   |   |   |   |   |
+| [Day 6: Custom Customs](https://adventofcode.com/2020/day/6) | [Data](data/day6.txt) | [R - D6](solutionsR/day6.R) |   |   | ⭐ | ⭐ |
 | Day 7 |   |   |   |   |   |   |
 | Day 8 |   |   |   |   |   |   |
 | Day 9 |   |   |   |   |   |   |
