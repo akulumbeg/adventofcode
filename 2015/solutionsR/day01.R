@@ -11,7 +11,7 @@ input <- as.numeric(input)              # convert to numeric. R converts also + 
 
 sum(input)                              # sum of +1s and -1s reveals the answer/floor
 
-# Day 2 - Part 2 ----------------------------------------------------------
+# Day 1 - Part 2 ----------------------------------------------------------
 
 input <- readLines("2015/data/day01.txt", warn = F)
 
