@@ -55,6 +55,6 @@ I am well aware that many of my solutions can be done much faster using e.g. tid
 
 *2015*
 
-    R      [                         ] 0/25
+    R      [=                        ] 1/25
     Python [                         ] 0/25
     C++    [                         ] 0/25
