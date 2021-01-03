@@ -18,43 +18,44 @@ My code chunks are simply representations of my programming thinking. They help 
 * Only base R if possible
 * No for-loops
 * Code as short and non-verbose as possible
+* However, instead of one-liners, I sometimes try to break things down for clarity
 
 I am well aware that many of my solutions can be done much faster using e.g. tidyverse, but within AoC, my personal challenge to make code as efficient as possible using only "pure" R. Once I have more time, I might do alternative solutions that will focus on keeping the code to the absolute minimum, regardless of packages used.
 
 ## Progress
 
-[*2020*](/2020/)
+[**2020**](/2020/)
 
     R      [======                   ] 6/25
     Python [                         ] 0/25
     C++    [                         ] 0/25
     
-[*2019*](/2019/)
+[**2019**](/2019/)
 
     R      [                         ] 0/25
     Python [                         ] 0/25
     C++    [                         ] 0/25
 
-[*2018*](/2018/)
+[**2018**](/2018/)
     
     R      [                         ] 0/25
     Python [                         ] 0/25
     C++    [                         ] 0/25
     
-[*2017*](/2017/)
+[**2017**](/2017/)
 
     R      [                         ] 0/25
     Python [                         ] 0/25
     C++    [                         ] 0/25
 
-[*2016*](/2016/)
+[**2016**](/2016/)
 
     R      [                         ] 0/25
     Python [                         ] 0/25
     C++    [                         ] 0/25
 
-[*2015*](/2015/)
+[**2015**](/2015/)
 
-    R      [=                        ] 1/25
+    R      [====                     ] 4/25
     Python [                         ] 0/25
     C++    [                         ] 0/25
