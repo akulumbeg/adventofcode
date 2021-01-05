@@ -4,7 +4,7 @@ input <- readLines("2015/data/day02.txt", warn = F) # load the data
 input <- as.data.frame(input)                       # convert to df 1000x1
 input <- strsplit(input[[1]], "x")                  # split by "x" to get each side separately
 input <- lapply(input, as.integer)                  # convert to integers
-input <- as.data.frame(matrix(unlist(input), ncol = 3, byrow = T)) # 1000x3 matrix (converted to df)
+input <- do.call(rbind, input)                      # 1000x3 df
 names(input) <- c("w", "l", "h")                    # column names - sides - width, length, height
 
 lowest <- apply(input, 1, function(x) (sort(x))[1]) # find the lowest number (smallest side)
@@ -21,8 +21,8 @@ sum(input$paper)
 input <- readLines("2015/data/day02.txt", warn = F) # load the data
 input <- as.data.frame(input)                       # convert to df 1000x1
 input <- strsplit(input[[1]], "x")                  # split by "x" to get each side separately
-input <- lapply(input, as.integer)
-input <- as.data.frame(matrix(unlist(input), ncol = 3, byrow = T)) # 1000x3 matrix (converted to df)
+input <- lapply(input, as.integer)                  # convert to integers
+input <- do.call(rbind, input)                      # 1000x3 df
 names(input) <- c("w", "l", "h")                    # column names - sides - width, length, height
 
 lowest <- apply(input, 1, function(x) (sort(x))[1]) # find the lowest number (smallest side)
