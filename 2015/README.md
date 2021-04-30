@@ -2,7 +2,7 @@
 
 | Assignment | Data | Solution R | Solution Python | Solution C++ | Part 1 | Part 2 |
 |-------|---|---|---|---|:-:|:-:|
-| [Day 1: Not Quite Lisp](https://adventofcode.com/2015/day/1) | [Data](data/day01.txt) | [R - D1](solutionsR/day01.R) |   |   | ⭐ | ⭐ |
+| [Day 1: Not Quite Lisp](https://adventofcode.com/2015/day/1) | [Data](data/day01.txt) | [R - D1](solutionsR/day01.R) | [Python - D1](solutionsPython/day01.R) |   | ⭐ | ⭐ |
 | [Day 2: I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2) | [Data](data/day02.txt) | [R - D2](solutionsR/day02.R) |   |   | ⭐ | ⭐ |
 | [Day 3: Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3) | [Data](data/day03.txt) | [R - D3](solutionsR/day03.R)  |   |   | ⭐ | ⭐ |
 | [Day 4: The Ideal Stocking Stuffer](https://adventofcode.com/2015/day/4) | [Data](data/day04.txt) | [R - D4](solutionsR/day04.R)  |   |   | ⭐ | ⭐ |
