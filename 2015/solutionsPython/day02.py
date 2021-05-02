@@ -25,6 +25,6 @@ aoc_input = [sorted([int(j) for j in i]) for i in aoc_input]          # sort dim
 dist = [elem[0]*2 + elem[1]*2 for elem in aoc_input]                  # 2 shortest distances across smallest sides
 bow = [elem[0]*elem[1]*elem[2] for elem in aoc_input]                 # bow of each present as defined
 
-ribbon = [dist[i] + bow[i] for i in range(len(dims))]                 # sum the distances and bow of each present
+ribbon = [dist[i] + bow[i] for i in range(len(dist))]                 # sum the distances and bow of each present
 
 sum(ribbon)                                                           # sum the list to get all ribbon needed
