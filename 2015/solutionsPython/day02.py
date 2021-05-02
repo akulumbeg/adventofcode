@@ -2,7 +2,7 @@
 with open("2015/data/day02.txt") as data:
     aoc_input = data.read().splitlines()
 
-# done through list comprehension
+# done through list comprehensions
 
 aoc_input = [i.split("x") for i in aoc_input]                         # split into three-element-sublists
 aoc_input = [sorted([int(j) for j in i]) for i in aoc_input]          # sort dimensions in each sublist
@@ -17,6 +17,8 @@ sum(wrapper)                                                          # sum the 
 with open("2015/data/day02.txt") as data:
     aoc_input = data.read().splitlines()
 
+# done through list comprehensions
+    
 aoc_input = [i.split("x") for i in aoc_input]                         # split into three-element-sublists
 aoc_input = [sorted([int(j) for j in i]) for i in aoc_input]          # sort dimensions in each sublist
 
