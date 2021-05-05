@@ -70,5 +70,5 @@ C++ is a language that I intend to learn without any prior knowledge, therefore,
 [**2015**](/2015/)
 
     R      [====                     ] 4/25
-    Python [===                      ] 3/25
+    Python [====                     ] 4/25
     C++    [                         ] 0/25
