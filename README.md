@@ -37,6 +37,11 @@ C++ is a language that I intend to learn without any prior knowledge, therefore,
 
 ## Progress
 
+[**2021**](/2021/)
+
+    R      [=                        ] 1/25
+    Python [                         ] 0/25
+
 [**2020**](/2020/)
 
     R      [======                   ] 6/25
