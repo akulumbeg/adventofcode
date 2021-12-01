@@ -1,7 +1,7 @@
 # 🎄 Advent of Code 2021 🎁
 
 | Assignment | Data | Solution R | Solution Python | Part 1 | Part 2 |
-|-------|---|---|---|---|:-:|:-:|
+|-------|---|---|---|:-:|:-:|
 | [Day 1: Sonar Sweep](https://adventofcode.com/2021/day/1) | [Data](data/day1.txt) | [R - D1](solutionsR/day1.R) | [Python - D1](solutionsPython/day1.py)  | ⭐ | ⭐ |
 
 
