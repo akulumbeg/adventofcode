@@ -3,7 +3,7 @@
 | Assignment | Data | Solution R | Solution Python | Part 1 | Part 2 |
 |-------|---|---|---|:-:|:-:|
 | [Day 1: Sonar Sweep](https://adventofcode.com/2021/day/1) | [Data](data/day1.txt) | [R - D1](solutionsR/day1.R) |   | ⭐ | ⭐ |
-
+| [Day 2: Dive!](https://adventofcode.com/2021/day/2) | [Data](data/day2.txt) | [R - D1](solutionsR/day2.R) |   | ⭐ | ⭐ |
 
 ### Notes
 
