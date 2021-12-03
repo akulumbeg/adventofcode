@@ -18,6 +18,7 @@ input <- strsplit(readLines("2021/data/day3.txt", warn = F), "")
 input <- matrix(as.integer(unlist(input)), ncol = 12, byrow = T)
 
 remover <- function(input, most = T) {
+# Remover - Iteratively removes the redundant rows from columns
   
   input <- as.data.frame(input) # convert into df because of last 
                                 # otherwise last matrix row converts into vector
