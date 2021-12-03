@@ -4,6 +4,7 @@
 |-------|---|---|---|:-:|:-:|
 | [Day 1: Sonar Sweep](https://adventofcode.com/2021/day/1) | [Data](data/day1.txt) | [R - D1](solutionsR/day1.R) |   | ⭐ | ⭐ |
 | [Day 2: Dive!](https://adventofcode.com/2021/day/2) | [Data](data/day2.txt) | [R - D2](solutionsR/day2.R) |   | ⭐ | ⭐ |
+| [Day 3: Binary Diagnostic](https://adventofcode.com/2021/day/3) | [Data](data/day3.txt) | [R - D3](solutionsR/day3.R) |   | ⭐ | ⭐ |
 
 ### Notes
 
