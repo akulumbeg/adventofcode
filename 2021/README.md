@@ -6,6 +6,8 @@
 | [Day 2: Dive!](https://adventofcode.com/2021/day/2) | [Data](data/day2.txt) | [R - D2](solutionsR/day2.R) |   | ⭐ | ⭐ |
 | [Day 3: Binary Diagnostic](https://adventofcode.com/2021/day/3) | [Data](data/day3.txt) | [R - D3](solutionsR/day3.R) |   | ⭐ | ⭐ |
 | [Day 4: Giant Squid](https://adventofcode.com/2021/day/4) | [Data](data/day4.txt) | [R - D4](solutionsR/day4.R) |   | ⭐ | ⭐ |
+| [Day 5: Hydrothermal Venture](https://adventofcode.com/2021/day/5) | [Data](data/day5.txt) | [R - D5](solutionsR/day5.R) |   | ⭐ | ⭐ |
+| [Day 6: Lanternfish](https://adventofcode.com/2021/day/6) | [Data](data/day6.txt) | [R - D6](solutionsR/day6.R) |   | ⭐ | ⭐ |
 
 ### Notes
 

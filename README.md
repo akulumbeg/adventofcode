@@ -16,7 +16,7 @@ My code chunks are simply representations of my programming thinking. They help 
 ### R
 
 * Only base R if possible
-* No for-loops
+* Avoid loops if possible
 * Code as short, efficient and non-verbose as possible
 * However, instead of one-liners, I sometimes try to break things down for clarity
 
@@ -39,7 +39,7 @@ C++ is a language that I intend to learn without any prior knowledge, therefore,
 
 [**2021**](/2021/)
 
-    R      [==                       ] 2/25
+    R      [======                   ] 6/25
     Python [                         ] 0/25
 
 [**2020**](/2020/)
