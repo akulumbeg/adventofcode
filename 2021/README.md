@@ -8,6 +8,8 @@
 | [Day 4: Giant Squid](https://adventofcode.com/2021/day/4) | [Data](data/day4.txt) | [R - D4](solutionsR/day4.R) |   | ⭐ | ⭐ |
 | [Day 5: Hydrothermal Venture](https://adventofcode.com/2021/day/5) | [Data](data/day5.txt) | [R - D5](solutionsR/day5.R) |   | ⭐ | ⭐ |
 | [Day 6: Lanternfish](https://adventofcode.com/2021/day/6) | [Data](data/day6.txt) | [R - D6](solutionsR/day6.R) |   | ⭐ | ⭐ |
+| [Day 7: The Treachery of Whales](https://adventofcode.com/2021/day/7) | [Data](data/day7.txt) | [R - D7](solutionsR/day7.R) |   | ⭐ | ⭐ |
+
 
 ### Notes
 

@@ -39,7 +39,7 @@ C++ is a language that I intend to learn without any prior knowledge, therefore,
 
 [**2021**](/2021/)
 
-    R      [======                   ] 6/25
+    R      [=======                  ] 7/25
     Python [                         ] 0/25
 
 [**2020**](/2020/)
