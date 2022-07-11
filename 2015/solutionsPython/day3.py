@@ -31,7 +31,7 @@ posy = (0, 0, 1, -1)                                               # tuple holdi
 coord_s = (0, 0)                                                   # santa's initial coords
 coord_rs = (0, 0)                                                  # robo-santa's initial coords
 coords = set()                                                     # create a set (unique values only)
-coords.add((0,0))                                                  # add the initial position. It's (0,0) for both, so adding once is enough
+coords.add((0, 0))                                                 # add the initial position. It's (0,0) for both, so adding once is enough
 
 for i, x in enumerate(aoc_input):
     n = char.index(x)                                              # n is the index of the currently iterated command

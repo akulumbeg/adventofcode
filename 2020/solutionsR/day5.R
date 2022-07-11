@@ -95,7 +95,7 @@ binpart <- function(inst){
 
 seats_taken <- sort(sapply(input, binpart))                 # get taken seat IDs and sort them
                                                             # identical to previous solution
-seats_all <- seq(from = min(list), to = max(list), by = 1)  # get all possible seat IDs knowing
+seats_all <- seq(from = min(seats_taken), to = max(seats_taken), by = 1)  # get all possible seat IDs knowing
                                                             # that our seat isn't min nor max
 
 setdiff(seats_all, seats_taken)                             # subtract one from another, the seat

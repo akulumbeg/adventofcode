@@ -12,4 +12,9 @@ sum(input)
 
 input <- as.integer(readLines("2018/data/day1.txt", warn = F))
 
-input[which(duplicated(cumsum(input)))]
+while (i  ) {
+  
+}
+
+
+input[which(duplicated(cumsum(input)))][1]

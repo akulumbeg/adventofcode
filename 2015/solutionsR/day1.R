@@ -1,6 +1,6 @@
 # Day 1 - Part 1 ----------------------------------------------------------
 
-input <- readLines("2015/data/day01.txt", warn = F) # load the data
+input <- readLines("2015/data/day1.txt", warn = F) # load the data
 
 # rule - trying to avoid looping
 
@@ -13,7 +13,7 @@ sum(input)                              # sum of +1s and -1s reveals the answer/
 
 # Day 1 - Part 2 ----------------------------------------------------------
 
-input <- readLines("2015/data/day01.txt", warn = F)
+input <- readLines("2015/data/day1.txt", warn = F)
 
 # rule - trying to avoid looping
 

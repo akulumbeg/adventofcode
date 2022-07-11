@@ -1,45 +1,56 @@
 # Day 8 - Part 1 ----------------------------------------------------------
 
 input <- readLines("2020/data/day8.txt", warn = F)
-input <- strsplit(input, " ")
-input <- as.data.frame(matrix(unlist(input), ncol = 2, byrow = T))
-names(input) <- c("inst", "value")
-input$value <- as.integer(input$value)
-input$accu <- NA
-input$checked <- FALSE
+input <- as.data.frame(matrix(unlist(strsplit(input, " ")), ncol = 2, byrow = T))
+input$iter <- F  
+names(input) <- c("inst", "val", "iter")
+ 
+acc <- 0
+pos <- 1
+inst <- " "
+visited <- c()
 
-# jumper <- function(input, i = 1) {
-#   
-#   if(input$inst[i] == "acc" & input$checked[i] == FALSE) {
-#     
-#     input$checked[i] == T
-#     
-#   } else if (input$inst[i] == "jmp" & input$checked[i] == FALSE) {
-#     
-#     input$checked[i] == T
-#     
-#   } else if (input$inst[i] == "nop" & input$checked[i] == FALSE) {
-#     
-#     input$checked[i] == T
-#     jumper(input, i + 1)
-#     
-#   } else {
-#     return("Error")
-#   }
-#   
-#   
-#   
-#   
-#   return(input)
-# }
+bootcode <- function(input, acc, pos) {
+  
+  inst <<- input$inst[pos]
+  
+  # if (input$iter[pos] == T) {
+  #   
+  #   return (pos)
+  #   #return(acc - as.integer(input$val[pos]))
+  #   
+  # } else {
+      
 
-while (i <= length(input)) {
-  if (input$checked == F) {
+    visited <<- c(visited, pos)
     
-  }
+    
+    
+    if (inst == "nop") {
+      pos <<- pos+1
+    } else if (inst == "acc") {
+      acc <<- acc + as.integer(input$val[pos])
+      pos <<- pos+1
+    } else {
+      pos <<- pos + as.integer(input$val[pos])
+    }
+    
+    if (pos %in% visited) {
+      return("done")
+    } else {
+      bootcode(input, acc, pos)
+    }
+    
+    
+    
 }
 
-outputdf <- jumper(input, 1)
+
+
+bootcode(input, acc, pos)
+
+
+
 
 
 # Day 8 - Part 2 ----------------------------------------------------------

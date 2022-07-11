@@ -1,25 +1,30 @@
+# Imports
+from itertools import combinations
+from math import prod
+
 # Day 1 - Part 1 ----------------------------------------------------------
 
-input = open("2020/data/day1.txt", mode="w+")
+with open("2020/data/day1.txt") as file:
+    inp = [int(line) for line in file]
 
-input <- as.integer(readLines("2020/data/day1.txt", warn = F)) 
+combo = list(combinations(inp, 2))
 
-combinations <- expand.grid(input, input)
-# grid of all possible combinations of elements
-solmatrix <- combinations[which(rowSums(combinations) == 2020),]
-# which combinations when summed add up to 2020? choose these
-# result - 2x2 matrix created - 2 elements yield 2 combinations
+combosum, combomul = [sum(x) for x in combo], [prod(x) for x in combo]
 
-(numbers <- as.integer(solmatrix[1,]))# retype and print out
-sum(numbers)                          # check - the numbers sum to 2020
-prod(numbers)                         # answer - product
+combomul[combosum.index(2020)]
 
-#### Alternative solution ####
-# input <- as.integer(readLines("2020/data/day1.txt"))
-# input2 <- 2020 - input
-# 
-# inputs <- cbind(input, input2)
-# numbers <- names(sort(table(inputs), decreasing = T)[1:2])
-# (numbers <- as.integer(numbers))
-# sum(numbers)
-# prod(numbers)
+# Creating a list of sums of each combination tuple
+# and a list of products of each combo
+# then find the index of which tuple/combination sums to 2020
+# and take the product on the same position
+
+# Day 1 - Part 2 ----------------------------------------------------------
+
+with open("2020/data/day1.txt") as file:
+    inp = [int(line) for line in file]
+
+combo = list(combinations(inp, 3))
+
+cmbsum, cmbprod = [sum(x) for x in combo], [prod(x) for x in combo]
+
+cmbprod[cmbsum.index(2020)]
